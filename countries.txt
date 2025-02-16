@@ -1,0 +1,128 @@
+Usor|Romania|Bucuresti
+Usor|Franta|Paris
+Usor|Germania|Berlin
+Usor|Italia|Roma
+Usor|Spania|Madrid
+Usor|Regatul Unit|Londra
+Usor|Portugalia|Lisabona
+Usor|Grecia|Atena
+Usor|Polonia|Varsovia
+Usor|Ungaria|Budapesta
+Usor|Austria|Viena
+Usor|Belgia|Bruxelles
+Usor|Olanda|Amsterdam
+Usor|Suedia|Stockholm
+Usor|Norvegia|Oslo
+Usor|Finlanda|Helsinki
+Usor|Danemarca|Copenhaga
+Usor|Cehia|Praga
+Usor|Bulgaria|Sofia
+Usor|Irlanda|Dublin
+Usor|Elvetia|Berna
+Usor|Noua Zeelanda|Wellington
+Usor|Turcia|Ankara
+Mediu|Albania|Tirana
+Mediu|Algeria|Alger
+Mediu|Angola|Luanda
+Mediu|Armenia|Erevan
+Mediu|Azerbaijan|Baku
+Mediu|Belarus|Minsk
+Mediu|Bolivia|La Paz
+Mediu|Bulgaria|Sofia
+Mediu|Cambodgia|Phnom Penh
+Mediu|Chile|Santiago
+Mediu|Columbia|Bogota
+Mediu|Croatia|Zagreb
+Mediu|Cuba|Havana
+Mediu|Ecuador|Quito
+Mediu|Egipt|Cairo
+Mediu|Estonia|Tallinn
+Mediu|Filipine|Manila
+Mediu|Georgia|Tbilisi
+Mediu|Ghana|Accra
+Mediu|Grecia|Atena
+Mediu|Peru|Lima
+Mediu|Venezuela|Caracas
+Mediu|Uruguay|Montevideo
+Mediu|Paraguay|Asuncion
+Mediu|Tunisia|Tunis
+Mediu|Nigeria|Abuja
+Mediu|Sudan|Khartoum
+Mediu|Tanzania|Dodoma
+Mediu|Uganda|Kampala
+Mediu|Vietnam|Hanoi
+Mediu|Pakistan|Islamabad
+Mediu|Thailanda|Bangkok
+Mediu|Singapore|Singapore
+Mediu|Indonezia|Jakarta
+Mediu|Israel|Ierusalim
+Greu|Afghanistan|Kabul
+Greu|Arabia Saudita|Riyadh
+Greu|Bangladesh|Dhaka
+Greu|Coasta de Fildes|Yamoussoukro
+Greu|Etiopia|Addis Ababa
+Greu|Guatemala|Guatemala City
+Greu|Honduras|Tegucigalpa
+Greu|Iordania|Amman
+Greu|Iran|Teheran
+Greu|Iraq|Baghdad
+Greu|Kazakhstan|Astana
+Greu|Kenya|Nairobi
+Greu|Kuwait|Kuwait City
+Greu|Laos|Vientiane
+Greu|Liban|Beirut
+Greu|Libia|Tripoli
+Greu|Malaysia|Kuala Lumpur
+Greu|Maroc|Rabat
+Greu|Mongolia|Ulan Bator
+Greu|Myanmar|Naypyidaw
+Greu|Mozambique|Maputo
+Greu|Namibia|Windhoek
+Greu|Niger|Niamey
+Greu|Rwanda|Kigali
+Greu|Senegal|Dakar
+Greu|Sierra Leone|Freetown
+Greu|Somalia|Mogadishu
+Greu|Sri Lanka|Colombo
+Greu|Sudan de Sud|Juba
+Greu|Siria|Damascus
+Greu|Tajikistan|Dushanbe
+Greu|Turkmenistan|Ashgabat
+Greu|Uzbekistan|Tashkent
+Greu|Yemen|Sanaa
+Greu|Zambia|Lusaka
+Expert|Bahrain|Manama
+Expert|Benin|Porto-Novo
+Expert|Bhutan|Thimphu
+Expert|Botswana|Gaborone
+Expert|Brunei|Bandar Seri Begawan
+Expert|Burkina Faso|Ouagadougou
+Expert|Burundi|Gitega
+Expert|Camerun|Yaounde
+Expert|Congo|Brazzaville
+Expert|Djibouti|Djibouti
+Expert|Eritreea|Asmara
+Expert|Gabon|Libreville
+Expert|Gambia|Banjul
+Expert|Guinea|Conakry
+Expert|Lesotho|Maseru
+Expert|Madagascar|Antananarivo
+Expert|Malawi|Lilongwe
+Expert|Mali|Bamako
+Expert|Mauritania|Nouakchott
+Expert|Nepal|Kathmandu
+Expert|Antigua si Barbuda|Saint John's
+Expert|Bahamas|Nassau
+Expert|Barbados|Bridgetown
+Expert|Belize|Belmopan
+Expert|Comore|Moroni
+Expert|Dominica|Roseau
+Expert|Fiji|Suva
+Expert|Grenada|Saint George's
+Expert|Guyana|Georgetown
+Expert|Kiribati|Tarawa
+Expert|Maldive|Male
+Expert|Mauritius|Port Louis
+Expert|Palau|Ngerulmud
+Expert|Papua Noua Guinee|Port Moresby
+Expert|Samoa|Apia

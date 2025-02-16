@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1739699461 source:c:\users\georg\desktop\capitalsiq2.0\country.cpp
+	"country.h"
+
+1739700284 c:\users\georg\desktop\capitalsiq2.0\country.h
+	<string>
+
+1739699477 source:c:\users\georg\desktop\capitalsiq2.0\gameelement.cpp
+	"gameElement.h"
+	<iostream>
+	<random>
+	<algorithm>
+
+1739700243 c:\users\georg\desktop\capitalsiq2.0\gameelement.h
+	<string>
+	<vector>
+	"country.h"
+
+1739699555 source:c:\users\georg\desktop\capitalsiq2.0\question.cpp
+	"question.h"
+
+1739699561 c:\users\georg\desktop\capitalsiq2.0\question.h
+	"gameElement.h"
+
